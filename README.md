@@ -2,14 +2,14 @@
 
 **Embedded Developer | IoT Hobbyist | AI Enthusiast | Music Lover | Travel | Coffee Addict** ☕  
 
-Passionate about crafting intelligent embedded systems, writing secure and efficient firmware, and making tech more scalable & sustainable.  
+Passionate about building smart embedded systems, developing secure and efficient firmware, and making tech more scalable, sustainable and more user friendly.  
 
 ---  
 
-## ⚡ Tech Stack That Keeps Me Buzzing  
-🔹 **Embedded Systems:** ARM, NXP, ESP32, Eclipse IDE, ESP-IDF, FreeRTOS, BLE, WiFi, LittleFS, MQTT, I2C, UART, SPI, AWS  
+## ⚡ Tech Stack
+🔹 **Embedded Systems:** ARM, NXP, ESP32, Eclipse IDE, ESP-IDF, FreeRTOS, BLE Stack, WiFi, LittleFS, MQTT, I2C, UART, SPI, AWS  
 🔹 **Programming:** Embedded C, C++, Linux, Shell Script, Python, PowerShell, HTML, CSS, JS, TensorFlow (beginner in AI models)  
-🔹 **IoT & Connectivity:** Sensors, Wireless Communication, Cloud Integration  
+🔹 **IoT & Connectivity:** Flow Sensors, Stepper Motor, TDS, pH Sensors, Current Sensors, Moisture Sensor, Humidity and Temperature Sensor, RTC's, UART, Wireless Communication, Cloud Integration  
 🔹 **Tools & Automation:** VS Code, PyCharm, GitHub Actions, Custom Scripts  
 
 ---  
