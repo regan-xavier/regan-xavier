@@ -1,4 +1,4 @@
-# Hi, I'm Regan! <img src="https://camo.githubusercontent.com/401d1a42c8f0bd4ed70a31a4f0ad13d06251bb48c698c331c36a034b004de498/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77314f42704264376b4a7148724a6e4a31332f67697068792e676966" width="40">  
+# Hey, I'm Regan! <img src="https://camo.githubusercontent.com/401d1a42c8f0bd4ed70a31a4f0ad13d06251bb48c698c331c36a034b004de498/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77314f42704264376b4a7148724a6e4a31332f67697068792e676966" width="40">  
 
 <div align="center">
 <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76115dvv6nkzn25xn1lf7wrxo75aeklqha829bwy0t1w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">  
