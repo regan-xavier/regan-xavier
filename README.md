@@ -8,7 +8,7 @@ Passionate about crafting intelligent embedded systems, writing secure and effic
 
 ## ⚡ Tech Stack That Keeps Me Buzzing  
 🔹 **Embedded Systems:** ARM, NXP, ESP32, Eclipse IDE, ESP-IDF, FreeRTOS, BLE, WiFi, LittleFS, MQTT, I2C, UART, SPI, AWS  
-🔹 **Programming:** Embedded C, C++, Shell Script, Python, PowerShell, HTML, CSS, JS, TensorFlow (beginner in AI models)  
+🔹 **Programming:** Embedded C, C++, Linux, Shell Script, Python, PowerShell, HTML, CSS, JS, TensorFlow (beginner in AI models)  
 🔹 **IoT & Connectivity:** Sensors, Wireless Communication, Cloud Integration  
 🔹 **Tools & Automation:** VS Code, PyCharm, GitHub Actions, Custom Scripts  
 
