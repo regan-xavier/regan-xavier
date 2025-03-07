@@ -1,4 +1,4 @@
-# Hey there, I'm Regan! <img height="50" src="https://camo.githubusercontent.com/401d1a42c8f0bd4ed70a31a4f0ad13d06251bb48c698c331c36a034b004de498/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77314f42704264376b4a7148724a6e4a31332f67697068792e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+# Hi, I'm Regan! <img height="50" src="https://camo.githubusercontent.com/401d1a42c8f0bd4ed70a31a4f0ad13d06251bb48c698c331c36a034b004de498/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77314f42704264376b4a7148724a6e4a31332f67697068792e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 **Embedded Developer | IoT Hobbyist | AI Enthusiast | Music Lover | Travel | Coffee Addict** ☕  
 
