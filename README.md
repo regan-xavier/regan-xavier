@@ -1,29 +1,23 @@
-# 👋 Hi, I'm Regan!
+# Hey there, I'm Regan! <img height="50" src="https://camo.githubusercontent.com/401d1a42c8f0bd4ed70a31a4f0ad13d06251bb48c698c331c36a034b004de498/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f77314f42704264376b4a7148724a6e4a31332f67697068792e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-🚀 Embedded Developer | IoT Hobbyist | AI Enthusiast 
+**Embedded Developer | IoT Hobbyist | AI Enthusiast | Music Lover | Travel | Coffee Addict** ☕  
 
-Passionate about building smart embedded systems, developing secure & robust firmware, and exploring AI in embedded applications.
+Passionate about crafting intelligent embedded systems, writing secure and efficient firmware, and making tech more scalable & sustainable.  
 
-## 🔥 About Me  
-- 🖥 Embedded Developer working on **Vision4 firmware**  
-- 🌱 Currently experimenting with **Stepper motor, flow sensors and ESP32**  
-- 📡 BLE, IoT, TDS, pH, Pressure, LEDs and other sensors 
-- ⚙️ Exploring **stepper motors, ESP-IDF, and automation scripts**  
-- 📘 Creative storytelling
+---  
 
-## 💡 What I'm Working On  
-- 🔩 **TDS Controller**  
+## ⚡ Tech Stack That Keeps Me Buzzing  
+🔹 **Embedded Systems:** ARM, NXP, ESP32, Eclipse IDE, ESP-IDF, FreeRTOS, BLE, WiFi, LittleFS, MQTT, I2C, UART, SPI, AWS  
+🔹 **Programming:** Embedded C, C++, Shell Script, Python, PowerShell, HTML, CSS, JS, TensorFlow (beginner in AI models)  
+🔹 **IoT & Connectivity:** Sensors, Wireless Communication, Cloud Integration  
+🔹 **Tools & Automation:** VS Code, PyCharm, GitHub Actions, Custom Scripts  
 
-## ⚡ Tech Stack  
-- 🔹 Embedded: **ARM, NXP, ESP32, ESP-IDF, FreeRTOS, BLE, LittleFS, MQTT, I2C, UART, SPI**  
-- 💻 Programming: **Embedded C, Python, PowerShell, TensorFlow (beginner in AI models)**  
-- 📡 IoT: **Sensors, wireless communication, cloud integration**  
-- 🛠 Tools: **VS Code, PyCharm, GitHub Actions, automation scripts**  
-
-## 📬 Let's Connect!  
+---  
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76115dvv6nkzn25xn1lf7wrxo75aeklqha829bwy0t1w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"><br>   
+## 📬 Let's Connect & Geek Out! 💡  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/infant-regan-x/)  
-- 📫 reganxavier.edu@gmail.com  
+- 📧 reganxavier.edu@gmail.com  
 
----
+---  
 
-✨ _"Building smarter embedded systems one line of code at a time!"_
+✨ _"Transforming ideas into embedded reality—one line of code at a time!"_ 🚀
